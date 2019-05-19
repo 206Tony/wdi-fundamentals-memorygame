@@ -1,0 +1,52 @@
+body {
+	text-align: center;
+}
+
+.first{
+	font-family: Raleway, san-serif;
+	color: #f15B31;
+	letter-spacing: 1px;
+	font-weight: 600;
+	font-size: 18px;
+	text-transform: uppercase;
+	text-decoration: none;
+}
+
+.second {
+	font-family: Raleway, san-serif;
+	color: #0d2c40;
+	letter-spacing: 1px;
+	font-weight: 600;
+	font-size: 20px;
+	text-transform: uppercase;
+	text-decoration: none;
+}
+
+.third {
+	font-family: Raleway, san-serif;
+	color: #0d2c40;
+	letter-spacing: 1px;
+	font-weight: 600;
+	font-size: 20px;
+	text-transform: uppercase;
+	text-decoration: none;
+}
+h1 {
+	font-family: Raleway, san-serif;
+	color: #od2c40;
+	letter-spacing: 1px;
+	font-weight: 400;
+	font-size: 45px;
+	text-transform: uppercase;
+	text-decoration: none;
+}
+
+p {
+	font-family: "Droid Serif", serif;
+	line-height: 24px;
+	font-size: 18px;
+}
+
+/*Apply styles to the site using the images under the 
+"Deliverable" section ahead as a reference for font sizes, 
+colors, layout, etc.*/
