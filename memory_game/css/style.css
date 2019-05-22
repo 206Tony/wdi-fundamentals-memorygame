@@ -28,6 +28,11 @@ a {
 	text-transform: uppercase;
 	text-decoration: none;
 	margin: 0px 20px;
+	border-bottom: 2px solid transparent;
+}
+
+a:hover {
+	color: white;
 }
 
 h1 {
@@ -59,5 +64,39 @@ p {
 
 img {
 	margin: 40px 8px 8px 0px;
+}
+
+.copyright {
+	font-family: Raleway;
+	float: left;
+}
+
+.message {
+	font-family: Raleway;
+	float: right;
+}
+
+.name {
+	color: #F15B31;
+	font-weight: 700;
+}
+
+footer {
+	text-transform: uppercase;
+	padding:0 20px 20px 0;
+	background-color: #0D2C40;
+	color: white;
+	font-size: 14px;
+	letter-spacing: .08em;
+	font-weight: 500;
+}
+
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	content: " ";
+	clear: both;
+	height: 0;
+	font-size: 0;
 }
 
