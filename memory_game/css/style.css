@@ -7,6 +7,12 @@ main {
 	width: 850px;
 	margin: 35px auto;
 }
+
+button {
+	background-color: red;
+	color: white;
+	border-radius: 10px;
+}
 header{
 	background-color: #F15B31;
 	color: #FFFFFF;
